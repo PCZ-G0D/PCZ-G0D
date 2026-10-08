@@ -7,7 +7,8 @@
 ![](https://hit.yhype.me/github/profile?user_id=63124240)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PCZ-G0D&theme=nord&margin-w=15&margin-h=15&column=7" />
+  <img width="49%" src="https://github-stats-alpha.vercel.app/api?username=PCZ-G0D&cc=1f1b24&tc=f39c12&ic=c0392b&bc=ecf0f1&locale=cn"  />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PCZ-G0D&theme=radical"  />
 </p>
 
 
